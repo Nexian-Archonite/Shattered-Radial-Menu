@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.shattered_radial.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "shattered.refmap.json",
+  "mixins": [],
+  "client": [
+    "RadialMenuOverlayMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
